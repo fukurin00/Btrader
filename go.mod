@@ -1,0 +1,18 @@
+module github.com/fukurin00/Btrader
+
+go 1.14
+
+require (
+	github.com/davecgh/go-spew v1.1.1 // indirect
+	github.com/kr/text v0.2.0 // indirect
+	github.com/labstack/echo/v4 v4.1.17
+	github.com/mattn/go-colorable v0.1.8 // indirect
+	github.com/niemeyer/pretty v0.0.0-20200227124842-a10e7caefd8e // indirect
+	github.com/stretchr/testify v1.6.1 // indirect
+	golang.org/x/crypto v0.0.0-20201016220609-9e8e0b390897 // indirect
+	golang.org/x/net v0.0.0-20201024042810-be3efd7ff127 // indirect
+	golang.org/x/sys v0.0.0-20201024232916-9f70ab9862d5 // indirect
+	gopkg.in/check.v1 v1.0.0-20200902074654-038fdea0a05b // indirect
+	gopkg.in/yaml.v2 v2.3.0 // indirect
+	gopkg.in/yaml.v3 v3.0.0-20200615113413-eeeca48fe776 // indirect
+)
